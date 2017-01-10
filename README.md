@@ -1,2 +1,4 @@
 # Jump
-Unity game prototype
+Unity infinite runner game prototype
+
+Jump infinite obstacles using Space bar key.
